@@ -8,5 +8,5 @@ The data sets analyzed in this study are available from the Tumor Immunotherapy 
 
 ### ** Function of codes **
 
-HAPIR_model.r - Code to predict ICI response.
+HAPIR_model.r - Code to predict ICI response.  
 Figure2.r - Code to replicate the plots in Figure 2A-D.  
