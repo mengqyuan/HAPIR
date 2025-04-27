@@ -13,3 +13,5 @@ Figure2.r - Code to replicate the plots in Figure 2A-D.
 Figure3.r - Code to replicate the plots in Figure 3A-F.  
 Figure4.r - Code to replicate the plots in Figure 4A and 4D.  
 Figure5.r - Code to replicate the plots in Figure 5A-B.  
+Figure6.r - Code to replicate the plots in Figure 6A-D.  
+Figure7.r - Code to replicate the plots in Figure 7A,7E and 7F.  
